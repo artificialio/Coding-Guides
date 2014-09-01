@@ -1,10 +1,11 @@
 #CSS/SASS Style Guide
 
 ##Framework use
-Always use some kind of
+Always use some kind of framework that gives you a basis to work with. Preferably compatible with [libsass](https://github.com/sass/libsass). One that we have made very good experiences with is [Foundation](https://github.com/zurb/foundation), which also follows the semantic class naming scheme.
 
 ##Structure
 The basic structure for small and big projects is almost the same, the two main differences being for small projects we will only have one file for variables and we will probably end up with less files in total.
+
 `_variables.scss`
 **For small projects only** Put all your globally used scss variables (see Section Variables) in here
 
