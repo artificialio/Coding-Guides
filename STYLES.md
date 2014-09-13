@@ -6,8 +6,12 @@ Always use some kind of framework that gives you a basis to work with. Preferabl
 ##Structure
 The basic structure for small and big projects is almost the same, the two main differences being for small projects we will only have one file for variables and we will probably end up with less files in total.
 
+**For small projects only**
+
 `_variables.scss`
-**For small projects only** Put all your globally used scss variables (see Section Variables) in here
+Put all your globally used scss variables (see Section Variables) in here
+
+**For big projects only**
 
 `_colors.scss`
 
@@ -16,6 +20,8 @@ The basic structure for small and big projects is almost the same, the two main 
 `_font-size.scss`
 
 `_line-height.scss`
+
+**General**
 
 `_utilities.scss`
 
