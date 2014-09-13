@@ -14,7 +14,7 @@ The basic structure for small and big projects is almost the same, the two main 
 
 `_colors.scss`
 
-`_z-index.scss` - Define all z-index that are used within the projects here and only here. Preferably use numbers starting with 1 and incrementing by 1. For example `$z-index-1: 1;`, `$z-index-2: ;'`, `$z-index-3: 3;`, etc. This removes any confusion about z-indices as well as using any ridicolous numbers such as `999999`.
+`_z-index.scss` - Define all z-index that are used within the projects here and only here. Preferably use numbers starting with 1 and incrementing by 1. For example `$z-index-1: 1;`, `$z-index-2: 2;'`, `$z-index-3: 3;`, etc. This removes any confusion about z-indices as well as using any ridicolous numbers such as `999999`.
 
 `_font-size.scss`
 
