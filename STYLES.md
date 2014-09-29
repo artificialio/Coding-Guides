@@ -38,5 +38,6 @@ The basic structure for small and big projects is almost the same, the two main 
  * **Files**
 
  * **Classes**
+  **Note:** Describe the different meanings and usages between adjectives (dark, green, round, etc), adjectives ending with -ed (padded, underlined, centered) as well as nouns.
 
 ##Variables
