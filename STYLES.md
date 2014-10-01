@@ -33,12 +33,15 @@ The basic structure for small and big projects is almost the same, the two main 
 
 `_mixins.scss` - The place to put any mixins that are used, if any are used.
 
+##File structure
+Try to keep nesting classes to two levels and never nest more than 3 levels. If it seems necessary to nest a level deeper it might be worth refactoring your classes.
+
 
 ##Naming
  * **Files**
 
  * **Classes**
 
-  **Note:** Describe the different meanings and usages between adjectives (dark, green, round, etc), adjectives ending with -ed (padded, underlined, centered) as well as nouns.
+  **Note:** Describe the different meanings and usages between adjectives (dark, green, round, etc), adjectives ending with -ed (padded, underlined, centered), verbs (push, pull, expand) as well as nouns.
 
 ##Variables
